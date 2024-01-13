@@ -1,3 +1,0 @@
-Jorge Esteban Cardona Lopez
-### PROJECTO DE PYTHON PARA MANEJAR ESTRUCTURAS DE CONTROL CONDICIONAL
-desarrollado en medellin 2024
